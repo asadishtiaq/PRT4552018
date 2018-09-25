@@ -1,0 +1,120 @@
+﻿@model IEnumerable<eBae_MVC.Models.Listing>
+
+@{
+    ViewBag.Title = "My Active Listings";
+}
+
+<h2>@ViewBag.Title</h2>
+<table class="display" style="width: 95%" align="center">
+    <tr>
+        <th>Listing Name</th>
+        <th>Image</th>
+        <th>Description</th>
+        <th>Current Price</th>
+        <th>Start Date</th>
+        <th>End Date</th>
+        <th>Functions</th>
+    </tr>
+
+    @foreach (var item in Model.Where(l => l.EndTimestamp.Subtract(DateTime.Now).Seconds > 0))
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                <img src="@Html.DisplayFor(modelItem => item.ImageUrl)" width="150">
+            </td>
+            <td width="35%" style="text-align: justify;">
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                PHP
+                @if (item.Bids.Count > 0)
+                {
+                    foreach (var bid in item.Bids.OrderByDescending(l => l.Timestamp).Take(1))
+                    {
+                        @Html.DisplayFor(b => bid.Amount)
+                    }
+                }
+                else
+                {
+                    @Html.DisplayFor(modelItem => item.StartingPrice)
+                }.00
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StartTimestamp)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EndTimestamp)
+            </td>
+            <td width="150">
+                <center>
+                    @Html.ActionLink("View", "Details", "Listing", new { id = item.ListingID }, new { @class = "button" })
+                    <!-- @Html.ActionLink("Edit", "Edit", new { id = item.ListingID }, new { @class = "button" }) -->
+                    @Html.ActionLink("Delete", "Delete", new { id = item.ListingID }, new { @class = "button" })
+                </center>
+            </td>
+        </tr>
+    }
+
+</table>
+<center>
+    @Html.ActionLink("Create New Listing", "Create", null, new { @class = "button" } )
+</center>
+<br />
+<br />
+<h2>My Expired Listings</h2>
+<table class="display" style="width: 95%" align="center">
+    <tr>
+        <th>Listing Name</th>
+        <th>Image</th>
+        <th>Description</th>
+        <th>Final Price</th>
+        <th>Start Date</th>
+        <th>End Date</th>
+        <th>Functions</th>
+    </tr>
+
+    @foreach (var item in Model.Where(l => l.EndTimestamp.Subtract(DateTime.Now).Seconds < 0))
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                <img src="@Html.DisplayFor(modelItem => item.ImageUrl)" width="150">
+            </td>
+            <td width="400" style="text-align: justify;">
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @if (item.Bids.Count > 0)
+                {
+                    foreach (var bid in item.Bids.OrderByDescending(l => l.Timestamp).Take(1))
+                    {
+                        <text>PHP </text>@Html.DisplayFor(b => bid.Amount)<text>.00</text>
+                    }
+                }
+                else
+                {
+                    <text>N/A</text>
+                }
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StartTimestamp)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EndTimestamp)
+            </td>
+            <td width="150">
+                <center>
+                    @Html.ActionLink("View", "Details", "Listing", new { id = item.ListingID }, new { @class = "button" })
+                    <!-- @Html.ActionLink("Edit", "Edit", new { id = item.ListingID }, new { @class = "button" }) -->
+                    @Html.ActionLink("Delete", "Delete", new { id = item.ListingID }, new { @class = "button" })
+                </center>
+            </td>
+        </tr>
+    }
+
+</table>

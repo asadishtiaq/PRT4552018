@@ -1,0 +1,58 @@
+﻿@model eBae_MVC.Models.Listing
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Are you sure you want to delete this listing?</h2>
+<table style="width: 90%;" align="center" valign="top">
+    <tbody>
+        <tr>
+            <td style="width: 50%;">
+                <table style="width: 100%;">
+                    <tbody>
+                        <tr>
+                            <td><img src="@Html.DisplayFor(model => model.ImageUrl)" width="520" /></td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: left;"><b>Owner: </b>@Html.DisplayFor(model => model.User.Username)</td>
+
+                        </tr>
+                        <tr>
+                            <td style="text-align: left;">
+                                <h2>Description</h2>
+                                @Html.DisplayFor(model => model.Description)
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+            <td style="width: 50%; vertical-align: top; text-align: left;" valign="top">
+                <h2>Bidding History</h2>
+                View the last ten bids placed for this listing.
+                <table style="width: 100%;" valign="top">
+                    <tr>
+                        <th>User</th>
+                        <th>Bid Amount</th>
+                        <th>Bid Timestamp</th>
+                    </tr>
+                    @foreach (var item in Model.Bids.OrderByDescending(b => b.Timestamp).Take(10))
+                    {
+                        <tr>
+                            <td>@Html.DisplayFor(modelItem => item.User.Username)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Amount)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Timestamp)</td>
+                        </tr>
+                    }
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    <center>
+        <input type="submit" value="Delete Listing" class="button"/>
+        @Html.ActionLink("Back to List", "Index", null, new { @class = "button" })
+    </center>
+}

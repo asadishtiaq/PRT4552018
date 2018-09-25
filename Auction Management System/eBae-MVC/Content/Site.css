@@ -1,0 +1,151 @@
+﻿body {
+    font-family: 'Open Sans', sans-serif;
+    color: #222;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    margin-top: 5px;
+}
+
+
+#logo {
+    padding-left: 0.2em; 
+    float: left;
+    text-transform: none;
+    font-size: 20px;
+}
+#nav a{
+    color: #FFF;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 15px;
+    padding-right: 15px;
+}
+
+#nav a:hover {
+    color: #ffeead;
+}
+
+#nav {
+    background-color: #44ceb4;
+    text-align: right;
+    padding: 15px;
+    margin: 0px;
+}
+
+#content {
+    width: 90%;
+    margin: auto;
+    padding: 15px;
+}
+
+
+.button {
+    background-color: #66d8b0; 
+    border: none;
+    color: #FFF;
+    padding: 8px;
+    margin: 4px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 3px;
+    border: 1px solid #44ceb4;
+}
+
+.button:hover {
+    background-color: #33d8b0;
+    text-decoration: none !important;
+    color: #FFF !important;
+}
+
+.button:disabled, .button:disabled:hover{
+  background-color: #66d8b0;
+  opacity: 0.65; 
+  cursor: not-allowed;
+}
+
+table {
+    border-collapse: collapse;
+    vertical-align: top;
+    margin: auto;
+    vertical-align: middle;
+    padding: 5px;
+    border: 0px;
+    text-align: center;
+}
+
+th {
+    font-weight: bold;
+}
+
+.display tr, td, th, table{
+    border: 1px solid #DDD !important;
+    vertical-align: middle;
+    padding: 5px;
+    border: 0px;
+    text-align: center;
+}
+
+select {
+    width: 90%;
+    padding: 5px;
+    margin: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#clockdiv > span{
+    font-weight: bold;
+}
+
+#statusdiv{
+	font-family: sans-serif;
+	color: #fff;
+    background: #f6f6f6;
+	display: inline-block;
+	font-weight: 100;
+	text-align: center;
+	font-size: 14px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+#statusdiv > div{
+	padding: 10px;
+	border-radius: 3px;
+	display: inline-block;
+    width: 80px;
+}
+
+#statusdiv div > span{
+	padding: 5px;
+	border-radius: 3px;
+	display: inline-block;
+    width: 35px;
+    font-weight: bold;
+}
+
+.leader {
+    background: #7bc043;
+}
+
+.outbid {
+    background: #ee4035;
+}
+
+.won {
+    background: #0392cf;
+}
+
+.lost {
+    background: #ffbf00;
+}
+
+.smalltext{
+	padding-top: 5px;
+	font-size: 14px;
+    color: #333;
+}

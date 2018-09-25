@@ -1,0 +1,145 @@
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\obj\Debug\eBae-MVC.csprojResolveAssemblyReference.cache
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\eBae-MVC.dll.config
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\eBae-MVC.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\eBae-MVC.pdb
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\Antlr3.Runtime.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\EntityFramework.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\Newtonsoft.Json.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\System.Web.Http.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\System.Web.Mvc.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\System.Web.Optimization.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\System.Web.Providers.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\System.Web.Razor.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\System.Web.WebPages.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\WebGrease.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\EntityFramework.xml
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\System.Web.Http.xml
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\System.Web.Mvc.xml
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\System.Web.Razor.xml
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\System.Web.WebPages.xml
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\obj\Debug\eBae-MVC.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\obj\Debug\eBae-MVC.pdb
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\Owin.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\Microsoft.Owin.xml
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\obj\Debug\eBae_MVC.Migrations.init.resources
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\obj\Debug\eBae-MVC.csproj.GenerateResource.Cache
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\Microsoft.Owin.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\System.Web.Helpers.dll
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\System.Web.Helpers.xml
+C:\Users\Camille\Desktop\eBae-MVC\eBae-MVC\bin\Newtonsoft.Json.xml
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\eBae-MVC.dll.config
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\eBae-MVC.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\eBae-MVC.pdb
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Antlr3.Runtime.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\EntityFramework.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.AspNet.Identity.Core.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.Owin.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.Owin.Security.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.Web.Infrastructure.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Newtonsoft.Json.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Owin.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Net.Http.Formatting.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.Helpers.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.Http.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.Http.WebHost.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.Mvc.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.Optimization.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.Providers.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.Razor.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.WebPages.Deployment.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.WebPages.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.WebPages.Razor.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\WebGrease.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.AspNet.Identity.Core.xml
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.Owin.xml
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.Owin.Security.xml
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Newtonsoft.Json.xml
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.Helpers.xml
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.Mvc.xml
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.Razor.xml
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.WebPages.xml
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.WebPages.Deployment.xml
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.WebPages.Razor.xml
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\EntityFramework.xml
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Net.Http.Formatting.xml
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.Http.xml
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.Http.WebHost.xml
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\obj\Debug\eBae_MVC.Migrations.init.resources
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\obj\Debug\eBae-MVC.csproj.GenerateResource.Cache
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\obj\Debug\eBae-MVC.dll
+F:\ADEEL\Helping Projects\realtime-auction-master\realtime-auction-master\eBae-MVC\obj\Debug\eBae-MVC.pdb
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\eBae-MVC.dll.config
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\eBae-MVC.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\eBae-MVC.pdb
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Antlr3.Runtime.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\EntityFramework.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.AspNet.Identity.Core.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.Owin.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.Owin.Security.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.Web.Infrastructure.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Newtonsoft.Json.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Owin.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Net.Http.Formatting.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.Helpers.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.Http.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.Http.WebHost.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.Mvc.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.Optimization.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.Providers.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.Razor.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.WebPages.Deployment.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.WebPages.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.WebPages.Razor.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\WebGrease.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.AspNet.Identity.Core.xml
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.Owin.xml
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Microsoft.Owin.Security.xml
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\Newtonsoft.Json.xml
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.Helpers.xml
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.Mvc.xml
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.Razor.xml
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.WebPages.xml
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.WebPages.Deployment.xml
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.WebPages.Razor.xml
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\EntityFramework.xml
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Net.Http.Formatting.xml
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.Http.xml
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\bin\System.Web.Http.WebHost.xml
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\obj\Debug\eBae-MVC.csprojAssemblyReference.cache
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\obj\Debug\eBae_MVC.Migrations.init.resources
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\obj\Debug\eBae-MVC.csproj.GenerateResource.cache
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\obj\Debug\eBae-MVC.csproj.CoreCompileInputs.cache
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\obj\Debug\eBae-MVC.csproj.CopyComplete
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\obj\Debug\eBae-MVC.dll
+F:\prt455\realtime-auction-master\realtime-auction-master\eBae-MVC\obj\Debug\eBae-MVC.pdb

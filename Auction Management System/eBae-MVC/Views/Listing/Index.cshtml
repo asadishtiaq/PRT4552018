@@ -1,0 +1,56 @@
+﻿@model IEnumerable<eBae_MVC.Models.Listing>
+
+@{
+    ViewBag.Title = "Browse Listings";
+}
+
+<h2>Active Listings</h2>
+<table style="width: 95%" class="display" align="center">
+    <tr>
+        <th>Listing Name</th>
+        <th>Image</th>
+        <th>Description</th>
+        <th>Current Price</th>
+        <th>Start Date</th>
+        <th>End Date</th>
+        <th>Owner</th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model.Where(l => l.EndTimestamp.Subtract(DateTime.Now).Seconds > 0)) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            <img src="@Html.DisplayFor(modelItem => item.ImageUrl)" width="150"></td>
+        <td width="35%" style="text-align: justify;">
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>PHP 
+            @if (item.Bids.Count > 0)
+            {
+                foreach (var bid in item.Bids.OrderByDescending(l => l.Timestamp).Take(1))
+                {
+                    @Html.DisplayFor(b => bid.Amount)
+                }
+            }
+            else
+            {
+                @Html.DisplayFor(modelItem => item.StartingPrice)
+            }.00
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StartTimestamp)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EndTimestamp)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.User.Username)
+        </td>
+        <td width="130"><center>@Html.ActionLink("View Listing", "Details", new { id = item.ListingID }, new { @class = "button" })</center></td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,37 @@
+﻿@model eBae_MVC.Models.User
+
+
+@{
+    ViewBag.Title = "Log In";
+    Layout = "~/Views/Shared/_Home_Layout.cshtml";
+}
+
+<h2>Log in</h2>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+    <fieldset>
+        <table width="350" align="center">
+            <tr>
+                <td width="15%"><h4>Username</h4></td>
+                <td>
+                    <input id="username" name="username" type="text" placeholder="" class="form-control input-md" required="">
+                </td>
+            </tr>
+            <tr>
+                <td><h4>Password</h4></td>
+                <td>
+                    <input id="password" name="password" type="password" placeholder="" class="form-control input-md" required="">
+                </td>
+            </tr>
+            </table>
+            <center>
+                <button type="submit" value="Index" id="login" name="login" class="button">Log In</button>
+
+                <br /><br />
+                New user? Register @Html.ActionLink("here", "Create", "User")!
+            </center>
+    </fieldset>
+
+}
