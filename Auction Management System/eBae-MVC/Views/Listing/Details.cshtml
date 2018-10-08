@@ -32,7 +32,7 @@
                         <tr>
                             <td style="text-align: left;"><strong>Current Price</strong></td>
                             <td style="text-align: left;">
-                                <strong>PHP </strong><label id="currentPrice">@ViewBag.CurrentPrice</label><strong>.00</strong>
+                                <strong>$ </strong><label id="currentPrice">@ViewBag.CurrentPrice</label><strong>.00</strong>
                             </td>
                         </tr>
                         <tr>
@@ -85,7 +85,7 @@
                             <div id="ChatMsg" style="text-align:left;height:300px; overflow:scroll;">
                                 </div>
                              
-                                <input id="Msg" name="Msg" type="text" placeholder="" class="form-control input-md" required="" style="display: inline; width: 100%" onkeyup="return Chat(event);">
+                                <input id="Msg" name="Msg" type="text" placeholder="Type Your Message here" class="form-control input-md" required="" style="display: inline; width: 100%" onkeyup="return Chat(event);">
                                 
                             </td>
                         </tr>
@@ -113,7 +113,7 @@ View the realtime bid history for this listing.
         {
             <tr>
                 <td>@Html.DisplayFor(modelItem => item.User.Username)</td>
-                <td>PHP @Html.DisplayFor(modelItem => item.Amount).00</td>
+                <td>$ @Html.DisplayFor(modelItem => item.Amount).00</td>
                 <td>@Html.DisplayFor(modelItem => item.Timestamp)</td>
             </tr>
         }

@@ -29,7 +29,7 @@
                 @Html.DisplayFor(modelItem => item.Description)
             </td>
             <td>
-                PHP
+                $
                 @if (item.Bids.Count > 0)
                 {
                     foreach (var bid in item.Bids.OrderByDescending(l => l.Timestamp).Take(1))
@@ -93,7 +93,7 @@
                 {
                     foreach (var bid in item.Bids.OrderByDescending(l => l.Timestamp).Take(1))
                     {
-                        <text>PHP </text>@Html.DisplayFor(b => bid.Amount)<text>.00</text>
+                        <text>$ </text>@Html.DisplayFor(b => bid.Amount)<text>.00</text>
                     }
                 }
                 else

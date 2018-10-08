@@ -27,7 +27,7 @@
         <td width="35%" style="text-align: justify;">
             @Html.DisplayFor(modelItem => item.Description)
         </td>
-        <td>PHP 
+        <td>$ 
             @if (item.Bids.Count > 0)
             {
                 foreach (var bid in item.Bids.OrderByDescending(l => l.Timestamp).Take(1))
